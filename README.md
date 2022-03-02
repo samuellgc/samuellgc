@@ -21,4 +21,4 @@
 <br>
 
 ### A little about me:
-### I love study and know news things, I'm constantly learning, reading and studying. Knowledge is power and this can change the world. My biggest goal is do something that can change peoples life.
+### I love studying and learning new things. I'm constantly learning, reading and studying. Knowledge is power and that can change the world. My biggest goal is to do something that can change peoples lives.
