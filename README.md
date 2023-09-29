@@ -14,6 +14,7 @@
     <img style="align: center" alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
     <img style="align: center" alt="BS" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=white">
     <img style="align: center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=737efa">
+    <img style="align: center" alt="Next" src="https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=737efa">
     <img style="align: center" alt="React" src="https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=737efa">
     <img style="align: center" alt="Firebase" src="https://img.shields.io/badge/Firebase-323330?style=for-the-badge&logo=firebase&logoColor=fca817">
     
